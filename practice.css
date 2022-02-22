@@ -1,0 +1,16 @@
+div {
+    background-color: aqua;
+    margin-right: 50%;
+    border-style: dashed;
+    border-width: 10px;
+    border-color: slateblue;
+    margin: 10px 20px 30px 40px;
+}
+
+span {
+    color: red;
+}
+
+body {
+    background-color: sienna;
+}
